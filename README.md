@@ -1,3 +1,3 @@
 # cpp_zybooks
 
-Answers for the ZYBOOKS for CPP
+Answers for "CIS 210: Introduction to C++ Programming" zybook course.
