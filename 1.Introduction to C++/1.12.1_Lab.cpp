@@ -1,4 +1,4 @@
-//Solution
+// All Solution
 
 #include <iostream>
 using namespace std;
